@@ -111,7 +111,7 @@ body {
   width: 82%;
   text-align: center;
   font-family: 'Press Start 2P', monospace;
-  
+  margin: 10px 0 0 0;
   position: absolute;
   top: 68%;
   left: 10%;
