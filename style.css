@@ -208,7 +208,7 @@ c1 {
 .change {
   right: 0;
 }
-
+/*
 .insta {
   font-size: 10px;
   text-decoration: none;
@@ -237,13 +237,13 @@ c1 {
   font-size: 20px;
   color: lightcoral;
 }
-
+*/
 .github {
   font-size: 10px;
   text-decoration: none;
   position: absolute;
   top: 470px;
-  left: 245px;
+  left: 75px;
   background: linear-gradient(
   120deg,
   #f9d923,
@@ -262,7 +262,7 @@ c1 {
   color: lightsteelblue;
   position: absolute;
   top: 465px;
-  left: 220px;
+  left: 50px;
   font-size: 20px;
 }
 
